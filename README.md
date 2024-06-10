@@ -1,7 +1,7 @@
 
 # Some Clutch Learnings
 
-Basic learnings from my k8s experience. ( not the basic parts, but important enough )
+Basic learnings from my k8s experience. ( not the very basic parts, but important enough )
 
 
 
